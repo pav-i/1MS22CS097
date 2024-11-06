@@ -40,26 +40,3 @@ Work Experience
 Reference
 Profile
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. 
-123-456-7890
-hello@reallygreatsite.com
-Harper Richard
-Phone:
-Email :
-Wardiere Inc. / CEO
-123-456-7890
-hello@reallygreatsite.com
-Estelle Darcy
-Phone:
-Email :
-Wardiere Inc. / CTO
-2030 - Present
-Borcelle Studio
-Marketing Manager & Specialist
-2025 -  2029
-Fauget Studio
-Marketing Manager & Specialist
-2024 - 2025
-Studio Shodwe
-Marketing Manager & Specialist
-Develop and execute comprehensive marketing strategies and campaigns that align with the company's goals and objectives.
-Lead, mentor, and manage a high-performing marketing team, fostering a collaborative and results-driven work environment.
