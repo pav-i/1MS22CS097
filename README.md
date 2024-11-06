@@ -1,6 +1,5 @@
 # 1MS22CS097
 
-<h1>1MS22CS097</h1>
 </br>
 
 ![image](https://github.com/user-attachments/assets/a09d1da1-73d6-4e8e-9816-3c107f69aa1d)
