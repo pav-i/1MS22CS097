@@ -63,10 +63,3 @@ Studio Shodwe
 Marketing Manager & Specialist
 Develop and execute comprehensive marketing strategies and campaigns that align with the company's goals and objectives.
 Lead, mentor, and manage a high-performing marketing team, fostering a collaborative and results-driven work environment.
-Monitor brand consistency across marketing channels and materials.
-Create and manage the marketing budget, ensuring efficient allocation of resources and optimizing ROI.
-Oversee market research to identify emerging trends, customer needs, and competitor strategies.
-Monitor brand consistency across marketing channels and materials.
-Develop and maintain strong relationships with partners, agencies, and vendors to support marketing initiatives.
-Monitor and maintain brand consistency across all marketing channels and materials.
-
